@@ -1,2 +1,2 @@
-FILESEXTRAPATHS:prepend:swift := "${THISDIR}/${PN}:"
-COMPATIBLE_MACHINE:swift = "swift"
+FILESEXTRAPATHS:prepend:platy := "${THISDIR}/${PN}:"
+COMPATIBLE_MACHINE:platy = "platy"

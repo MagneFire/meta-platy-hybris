@@ -1,3 +1,3 @@
-FILESEXTRAPATHS:prepend:swift := "${THISDIR}/brcm-patchram-plus:"
-SRC_URI:append:swift = " file://patchram.service "
-CFLAGS:append:swift = " -DLPM_SWIFT"
+FILESEXTRAPATHS:prepend:platy := "${THISDIR}/brcm-patchram-plus:"
+SRC_URI:append:platy = " file://patchram.service "
+CFLAGS:append:platy = " -DLPM_SWIFT"

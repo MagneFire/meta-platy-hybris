@@ -1,0 +1,12 @@
+kernel=%%KERNEL%%
+ramdisk=%%RAMDISK%%
+kernel_size=%%KERNEL_SIZE%%
+ramdisk_size=%%RAMDISK_SIZE%%
+kernel_offset=0x00008000
+base_addr=0x80000000
+ramdisk_offset=0x01000000
+tags_offset=0x00000100
+page_size=2048
+cmd_line="debug-ramdisk"
+board="platy"
+format=gzip

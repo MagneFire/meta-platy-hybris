@@ -1,1 +1,1 @@
-FILESEXTRAPATHS:prepend:swift := "${THISDIR}/${PN}:"
+FILESEXTRAPATHS:prepend:platy := "${THISDIR}/${PN}:"

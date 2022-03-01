@@ -1,1 +1,1 @@
-RDEPENDS:${PN}:append:swift = " qt5-qpa-hwcomposer-plugin "
+RDEPENDS:${PN}:append:platy = " qt5-qpa-hwcomposer-plugin "
